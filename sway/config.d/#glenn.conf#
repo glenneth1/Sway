@@ -1,0 +1,13 @@
+## Launch Stuff
+
+## Emacs
+$bindsym $mod+Shift+x exec emacs
+
+$bindsym $mod+Shift+o emacsclient -n -e '(yequake-toggle "org-notely")'
+
+## Firefox
+
+$bindsym $mod+Shift+f exec firefox
+
+##PCMANFM
+$bindsym $mod+Shift+y exec pcmanfm
